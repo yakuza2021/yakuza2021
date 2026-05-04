@@ -1,15 +1,23 @@
-﻿# <p align="center">Hi, I'm yakuza2021 | Full-Stack Developer & Tech Explorer 🌐</p>
+﻿# <p align="center">Hi, I'm Emi | Full-Stack Developer & Tech Architect 🚀</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yakuza2021/yakuza2021/main/banner.png" alt="Tech Banner" width="100%">
 </p>
 
-## 🚀 About Me
-- 🔭 **Exploring everything**: From backend systems to hardware and automation.
-- ⚡ **Problem Solver**: Passionate about building efficient tools and clean architectures.
-- 📚 **Continuous Learner**: Always diving into new technologies and frameworks.
+<p align="center">
+  <a href="https://yakuza2021.github.io/portfolio/"><img src="https://img.shields.io/badge/Check_My_Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:yakuza2021@users.noreply.github.com"><img src="https://img.shields.io/badge/Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</p>
 
-## 🛠️ My Toolbox
+## 💡 Philosophy
+> "Build systems that don't just work, but scale and inspire."
+
+## 🚀 Expertise
+- **Architecture**: Designing robust backend solutions with PHP and secure database schemas.
+- **Automation**: Streamlining workflows using n8n and Proxmox infrastructure.
+- **UX/UI**: Creating modern, responsive interfaces that prioritize the user experience.
+
+## 🛠️ My Digital Toolbox
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,12 +27,13 @@
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Performance Matrix
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakuza2021&show_icons=true&theme=tokyonight&hide_border=true" alt="yakuza2021 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yakuza2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakuza2021&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
 </p>
 
 ---
 <p align="center">
-  <i>"Turning ideas into reality through technology."</i>
+  <i>Exploring the frontier of full-stack development.</i>
 </p>

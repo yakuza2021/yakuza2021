@@ -1,4 +1,4 @@
-﻿# <p align="center">Hola, soy Emi | Desarrollador Full-Stack 🚀</p>
+﻿# <p align="center">¡Hola! Soy Pablo | Desarrollador Full-Stack 🚀</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yakuza2021/yakuza2021/main/banner.png" alt="Banner" width="100%">
